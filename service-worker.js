@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/githubad/youtube-app/precache-manifest.1885fd0394c36f740e7332a2deddf9ef.js"
+  "/youtube-app/precache-manifest.371fe1a95e3baa632e13d2a1eafeb6e7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/githubad/youtube-app/index.html", {
+workbox.routing.registerNavigationRoute("/youtube-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
