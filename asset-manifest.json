@@ -1,11 +1,13 @@
 {
-  "main.js": "/youtube-app/static/js/main.33e7e9df.chunk.js",
-  "main.js.map": "/youtube-app/static/js/main.33e7e9df.chunk.js.map",
+  "main.css": "/youtube-app/static/css/main.9b0fb4e4.chunk.css",
+  "main.js": "/youtube-app/static/js/main.d733fba6.chunk.js",
+  "main.js.map": "/youtube-app/static/js/main.d733fba6.chunk.js.map",
   "static/js/1.c666c97c.chunk.js": "/youtube-app/static/js/1.c666c97c.chunk.js",
   "static/js/1.c666c97c.chunk.js.map": "/youtube-app/static/js/1.c666c97c.chunk.js.map",
   "runtime~main.js": "/youtube-app/static/js/runtime~main.5ec74df6.js",
   "runtime~main.js.map": "/youtube-app/static/js/runtime~main.5ec74df6.js.map",
+  "static/css/main.9b0fb4e4.chunk.css.map": "/youtube-app/static/css/main.9b0fb4e4.chunk.css.map",
   "index.html": "/youtube-app/index.html",
-  "precache-manifest.60ba53f33332451906fc423c84efeda2.js": "/youtube-app/precache-manifest.60ba53f33332451906fc423c84efeda2.js",
+  "precache-manifest.371fe1a95e3baa632e13d2a1eafeb6e7.js": "/youtube-app/precache-manifest.371fe1a95e3baa632e13d2a1eafeb6e7.js",
   "service-worker.js": "/youtube-app/service-worker.js"
 }
